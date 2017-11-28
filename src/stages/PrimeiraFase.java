@@ -36,6 +36,10 @@ import util.RunEvent;
  *  Enemy: são entidades baseadas a seguirem behavior, Behavior é um array de Commands que 
  *  	rodam funções internas específicas na entidade a quem behavior esta rodando.
  *  
+ *  
+ *  DoubleWingsFramework é uma framework de base para alguns dos básicos elementos de 
+ *  desenvolvimento de jogos
+ *  
  */
 public class PrimeiraFase extends GameScene implements GameEventCallback{
 
